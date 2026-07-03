@@ -7,8 +7,7 @@ del gioco FantaSanremo (squadre, artisti, bonus/malus, classifiche).
 
 ## Dominio e regolamento di riferimento
 
-Lo schema è stato progettato sulla base del regolamento ufficiale FantaSanremo 2025:
-https://fantasanremo.com/regolamento
+Lo schema è stato progettato sulla base del regolamento ufficiale FantaSanremo 2025
 
 In breve: ogni utente crea una squadra di 7 artisti (5 titolari + 2 riserve) con 100 baudi
 a disposizione, nomina un capitano, e durante le 5 serate del Festival gli artisti
